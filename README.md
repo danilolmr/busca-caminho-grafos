@@ -54,4 +54,4 @@ Existe um caminho entre o vértice 1 e o vértice 5.
 ```
 
 ## 📄 Licença
-Este projeto é de código aberto e está sob a licença MIT.
+Este projeto está licenciado sob os termos da **MIT License**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
